@@ -15,4 +15,4 @@ const fetchUsers = async() =>
       li.appendChild(link);
       userList.appendChild(li);
     });
-  })
+  });
